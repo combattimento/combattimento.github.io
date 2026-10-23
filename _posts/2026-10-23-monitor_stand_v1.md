@@ -3,6 +3,7 @@
 First iteration of a simple monirot stand, made of plywood. Original concept required the Lenovo Docking station.
 
  Monitor: Lenovo ThinkVision P24q-10
+ 
  Laptop:  Lenovo L13
 
 
