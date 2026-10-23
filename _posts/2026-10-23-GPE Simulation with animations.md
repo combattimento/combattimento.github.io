@@ -1,7 +1,6 @@
-# The Gross–Pitaevskii Equation
+# Simulating Bose-Einstein condensates in microcavities
 
-The **Gross–Pitaevskii equation (GPE)** describes the dynamics
-of a dilute Bose–Einstein condensate at zero temperature.
+In order to simulate the behaviour of a bosonic gas, the Gross-Pitaevskii equation (GPE) can be solved numerically.
 
 For a condensate wavefunction $\psi(\mathbf{r},t)$, the
 time-dependent equation is
