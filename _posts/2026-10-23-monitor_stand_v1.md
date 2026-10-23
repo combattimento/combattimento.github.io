@@ -6,6 +6,4 @@ First iteration of a simple monirot stand, made of plywood. Original concept req
  
  Laptop:  Lenovo L13
 
-assets/images/monitor_vorne.png
-
 ![Stand from the front](/assets/images/monitor_vorne.png)
