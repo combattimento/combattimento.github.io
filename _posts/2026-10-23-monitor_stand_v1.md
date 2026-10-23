@@ -13,6 +13,6 @@ Inspired by Antonin Odin
 
 ![Stand from the back](/assets/images/monitor_hinten.png)
 
-![PDF drawing with dimensions](/assets/pdf/drawing_monitor_stand.pdf)
+![drawing with dimensions](/assets/images/monitor_plans_v1.png)
 
 
