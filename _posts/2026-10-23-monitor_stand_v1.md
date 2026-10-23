@@ -1,7 +1,6 @@
 # Construction of a simple monitor stand
 
 First iteration of a simple monitor stand, made of plywood. V1 is meant for the Lenovo docking station.
-Inspired by Antonin Odin
 
  Monitor: Lenovo ThinkVision P24q-10
  
@@ -16,3 +15,4 @@ Inspired by Antonin Odin
 ![drawing with dimensions](/assets/images/monitor_plans_v1.png)
 
 
+Inspired by Antonin Odin
