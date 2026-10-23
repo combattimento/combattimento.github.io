@@ -29,6 +29,10 @@ where
 The nonlinear term $g|\psi|^2\psi$ accounts for interactions
 between particles in the condensate.
 
+
+![GPE condensate](/assets/images/Dithered_GPE_condensate.png)
+
+
 ## Physical Interpretation
 
 The Gross–Pitaevskii equation is a nonlinear Schrödinger equation
