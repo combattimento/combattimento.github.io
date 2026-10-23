@@ -1,6 +1,6 @@
 # Construction of a simple monitor stand
 
-First iteration of a simple monirot stand, made of plywood. Original concept required the Lenovo Docking station.
+First iteration of a simple monitor stand, made of plywood. V1 is meant for the Lenovo docking station.
 
  Monitor: Lenovo ThinkVision P24q-10
  
@@ -8,4 +8,8 @@ First iteration of a simple monirot stand, made of plywood. Original concept req
 
 ![Stand from the front](/assets/images/monitor_vorne.png)
 
-![Stand from the front](/assets/pdf/drawing_monitor_stand.pdf)
+![Stand from the back](/assets/images/monitor_hinten.png)
+
+![PDF drawing with dimensions](/assets/pdf/drawing_monitor_stand.pdf)
+
+
