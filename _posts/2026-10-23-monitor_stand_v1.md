@@ -7,4 +7,4 @@ First iteration of a simple monirot stand, made of plywood. Original concept req
  Laptop:  Lenovo L13
 
 
-![A short description of the photo](assets/images/Monitor_Stand_vorne.png)
+<img src="" alt="It’s not entirely clear if it’s no longer listening, or just not telling you it’s listening.">
