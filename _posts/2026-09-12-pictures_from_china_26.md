@@ -50,29 +50,37 @@ Beijing, Nanjing, Shanghai, Guangzhou, Shenzhen, Hong Kong
 
 ---
 ## Nanjing
+
 <div class="image-row">
   <img src="/assets/images/china/24_CN_insta.jpg" alt="China image 24">
   <img src="/assets/images/china/25_CN_insta.jpg" alt="China image 25">
-  <img src="/assets/images/china/26_CN_insta.jpg" alt="China image 26">
+  <img src="/assets/images/china/28_CN_insta.jpg" alt="China image 28">
 </div>
 
 
 <div class="image-row">
-  <img src="/assets/images/china/27_CN_insta.jpg" alt="China image 27">
-  <img src="/assets/images/china/28_CN_insta.jpg" alt="China image 28">
   <img src="/assets/images/china/29_CN_insta.jpg" alt="China image 29">
 </div>
 
 <div class="image-row">
+  <img src="/assets/images/china/29_CN_insta.jpg" alt="China image 29">
   <img src="/assets/images/china/30_CN_insta.jpg" alt="China image 30">
   <img src="/assets/images/china/31_CN_insta.jpg" alt="China image 31">
-  <img src="/assets/images/china/32_CN_insta.jpg" alt="China image 32">
 </div>
 
 <div class="image-row">
+  <img src="/assets/images/china/32_CN_insta.jpg" alt="China image 32">
   <img src="/assets/images/china/33_CN_insta.jpg" alt="China image 33">
   <img src="/assets/images/china/34_CN_insta.jpg" alt="China image 34">
 </div>
+---
+Shanghai
+
+<div class="image-row">
+  <img src="/assets/images/china/26_CN_insta.jpg" alt="China image 26">
+  <img src="/assets/images/china/27_CN_insta.jpg" alt="China image 27">
+</div>
+
 
 ---
 Guangzhou
