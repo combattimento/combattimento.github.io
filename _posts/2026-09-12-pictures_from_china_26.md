@@ -101,7 +101,3 @@ HongKong
   <img src="/assets/images/china/41_CN_insta.jpg" alt="China image 41">
   <img src="/assets/images/china/42_CN_insta.jpg" alt="China image 42">
 </div>
-
-<div class="image-row">
-  <img src="/assets/images/china/42_CN_insta.jpg" alt="China image 42">
-</div>
