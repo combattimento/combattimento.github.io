@@ -1,5 +1,6 @@
-# Pictures taken on my travels to China
+# China 2026
 Beijing, Nanjing, Shanghai, Guangzhou, Shenzhen, Hong Kong
+---
 <div class="image-row">
   <img src="/assets/images/china/1_CN_insta.jpg" alt="China image 1">
   <img src="/assets/images/china/2_CN_insta.jpg" alt="China image 2">
@@ -104,3 +105,5 @@ Beijing, Nanjing, Shanghai, Guangzhou, Shenzhen, Hong Kong
   <img src="/assets/images/china/41_CN_insta.jpg" alt="China image 41">
   <img src="/assets/images/china/42_CN_insta.jpg" alt="China image 42">
 </div>
+---
+3 a row
