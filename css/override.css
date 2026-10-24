@@ -63,7 +63,7 @@ article .post-content .image-row {
   display: flex !important;
   flex-direction: row !important;
   align-items: flex-start;
-  gap: 50px;
+  gap: 10px;
   width: 100%;
 }
 
