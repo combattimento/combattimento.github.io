@@ -76,3 +76,7 @@ article .post-content .image-row img {
   height: auto !important;
   margin: 0 !important;
 }
+
+article .post-content .image-row {
+  margin-bottom: 30px;
+}
