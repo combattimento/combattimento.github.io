@@ -1,4 +1,4 @@
-# Pictures taken on my travels to China (2026)
+# Pictures taken on my travels to China
 Beijing, Nanjing, Shanghai, Guangzhou, Shenzhen, Hong Kong
 
 <div class="image-row">
