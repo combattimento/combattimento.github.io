@@ -82,6 +82,12 @@ Guangzhou
 
 <div class="image-row">
   <img src="/assets/images/china/35_CN_insta.jpg" alt="China image 35">
+</div>
+
+---
+Hong Kong
+
+<div class="image-row">
   <img src="/assets/images/china/36_CN_insta.jpg" alt="China image 36">
   <img src="/assets/images/china/37_CN_insta.jpg" alt="China image 37">
   <img src="/assets/images/china/38_CN_insta.jpg" alt="China image 38">
