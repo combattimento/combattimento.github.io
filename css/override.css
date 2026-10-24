@@ -58,3 +58,21 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+article .post-content .image-row {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+}
+
+article .post-content .image-row img {
+  display: block !important;
+  flex: 1 1 0 !important;
+  width: 0 !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+}
