@@ -1,6 +1,6 @@
-# Construction of a simple monitor stand
+# Monitor stand - plywood
 
-First iteration of a simple monitor stand, made of plywood. V1 is meant for the Lenovo docking station.
+ V1 monitor stand
 
  Monitor: Lenovo ThinkVision P24q-10
  
