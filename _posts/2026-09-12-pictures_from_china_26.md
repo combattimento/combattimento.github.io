@@ -57,11 +57,6 @@ Beijing, Nanjing, Shanghai, Guangzhou, Shenzhen, Hong Kong
   <img src="/assets/images/china/28_CN_insta.jpg" alt="China image 28">
 </div>
 
-
-<div class="image-row">
-  <img src="/assets/images/china/29_CN_insta.jpg" alt="China image 29">
-</div>
-
 <div class="image-row">
   <img src="/assets/images/china/29_CN_insta.jpg" alt="China image 29">
   <img src="/assets/images/china/30_CN_insta.jpg" alt="China image 30">
