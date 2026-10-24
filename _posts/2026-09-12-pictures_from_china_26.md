@@ -1,6 +1,8 @@
 # China 2026
-Beijing, Nanjing, Shanghai, Guangzhou, Shenzhen, Hong Kong
+
 ---
+Beijng
+
 <div class="image-row">
   <img src="/assets/images/china/1_CN_insta.jpg" alt="China image 1">
   <img src="/assets/images/china/2_CN_insta.jpg" alt="China image 2">
@@ -85,7 +87,7 @@ Guangzhou
 </div>
 
 ---
-Hong Kong
+HongKong
 
 <div class="image-row">
   <img src="/assets/images/china/36_CN_insta.jpg" alt="China image 36">
