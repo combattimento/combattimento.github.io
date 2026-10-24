@@ -75,6 +75,7 @@ article .post-content .image-row img {
   max-width: 100% !important;
   height: auto !important;
   margin: 0 !important;
+  margin-bottom: 30px;
 }
 
 article .post-content .image-row {
