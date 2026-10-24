@@ -107,3 +107,10 @@ Beijing, Nanjing, Shanghai, Guangzhou, Shenzhen, Hong Kong
 </div>
 ---
 3 a row
+---
+
+<div class="image-row">
+  <img src="/assets/images/china/1_CN_insta.jpg" alt="China image 1">
+  <img src="/assets/images/china/2_CN_insta.jpg" alt="China image 2">
+  <img src="/assets/images/china/3_CN_insta.jpg" alt="China image 3">
+</div>
