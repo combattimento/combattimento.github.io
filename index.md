@@ -1,2 +1,3 @@
+unsorted blogs on topics like: travel, tinkering, physics, music, ...
 ---
 Start of this Blog: 12.09.2026
