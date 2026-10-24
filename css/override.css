@@ -28,6 +28,18 @@ hr {
   text-align: right;
 }
 
+.image-row {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.image-row img {
+  width: calc(50% - 5px);
+  height: auto;
+  object-fit: contain;
+}
+
 .post_navi .nav_prev .post_navi-arrow {
   left: 0;
 }
