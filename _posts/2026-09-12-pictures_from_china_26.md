@@ -2,4 +2,4 @@
 Beijing, Nanjing, Shanghai, Guangzhou, Shenzhen, Hong Kong
 
 
-assets/images/china/1_CN_insta.jpg
+![CN_1](/assets/images/china/1_CN_insta.jpg)
