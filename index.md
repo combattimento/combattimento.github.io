@@ -1,3 +1,3 @@
-electronics, physics, music, travel ...
+physics, travel, electronics, music
 ---
 Start of this Blog: 12.09.2026
