@@ -45,11 +45,6 @@
 </head>
 
 <body>
-
-    <h1>My Movie List</h1>
-
-    <p>
-        A collection of movies worth watching.
     </p>
 
     <hr>
