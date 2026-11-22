@@ -96,7 +96,7 @@
             {
                 title: "Lammbock",
                 year: 2001,
-                description: "würzburg, comedy, weird"
+                description: "wuerzburg, comedy, weird"
             },
             {
                 title: "Lammbock",
