@@ -1,274 +1,140 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie Collection</title>
+    <title>My Movie List</title>
 
     <style>
         body {
             font-family: Arial, sans-serif;
-            max-width: 900px;
+            max-width: 800px;
             margin: 40px auto;
             padding: 0 20px;
-            background-color: #ffffff;
+            line-height: 1.6;
             color: #333;
-            line-height: 1.7;
         }
 
         h1 {
-            font-size: 32px;
-            border-bottom: 2px solid #ddd;
+            border-bottom: 1px solid #ddd;
             padding-bottom: 10px;
-        }
-
-        h2 {
-            margin-top: 35px;
-        }
-
-        h3 {
-            margin-bottom: 5px;
-        }
-
-        p {
-            color: #555;
         }
 
         hr {
             border: none;
             border-top: 1px solid #ddd;
-            margin: 30px 0;
-        }
-
-        .search-container {
-            display: flex;
-            gap: 10px;
             margin: 25px 0;
-            flex-wrap: wrap;
-        }
-
-        input, select {
-            padding: 12px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            font-size: 15px;
-        }
-
-        input {
-            flex: 1;
-            min-width: 180px;
         }
 
         .movie {
-            margin: 25px 0;
-            padding-bottom: 15px;
-            border-bottom: 1px solid #eee;
+            margin: 15px 0;
         }
 
-        .movie h3 {
-            font-size: 21px;
-        }
-
-        .movie-info {
-            color: #777;
-            font-size: 14px;
-        }
-
-        .rating {
-            color: #d69b00;
+        .movie-title {
             font-weight: bold;
         }
 
-        .genre {
-            display: inline-block;
-            background: #eeeeee;
-            padding: 3px 9px;
-            border-radius: 4px;
-            font-size: 13px;
-        }
-
-        footer {
-            margin-top: 50px;
-            padding-top: 20px;
-            border-top: 1px solid #ddd;
+        .year {
             color: #888;
-            font-size: 13px;
         }
 
-        @media (max-width: 600px) {
-            body {
-                margin: 20px auto;
-            }
-
-            h1 {
-                font-size: 26px;
-            }
-
-            .search-container {
-                flex-direction: column;
-            }
-
-            input, select {
-                box-sizing: border-box;
-                width: 100%;
-            }
+        .description {
+            margin: 2px 0;
+            color: #555;
         }
     </style>
 </head>
 
 <body>
 
-    <h1>My Movie Collection</h1>
+    <h1>My Movie List</h1>
 
     <p>
+        A collection of movies worth watching.
     </p>
 
     <hr>
 
-    <h2>Browse Movies</h2>
+    <h2>Movies</h2>
 
-    <div class="search-container">
-        <input
-            type="text"
-            id="search"
-            placeholder="Search for a movie..."
-            oninput="filterMovies()"
-        >
-
-        <select id="genreFilter" onchange="filterMovies()">
-            <option value="all">All Genres</option>
-            <option value="Action">Action</option>
-            <option value="Adventure">Adventure</option>
-            <option value="Drama">Drama</option>
-            <option value="Sci-Fi">Sci-Fi</option>
-            <option value="Comedy">Comedy</option>
-        </select>
-    </div>
-
-    <div id="movieList">
-
-        <div class="movie" data-genre="Sci-Fi">
-            <h3>Interstellar (2014)</h3>
-            <div class="movie-info">
-                Genre: <span class="genre">Sci-Fi</span>
-                | Rating: <span class="rating">9.0/10</span>
-            </div>
-            <p>
-                A team of explorers travels beyond this galaxy
-                to discover whether mankind has a future among
-                the stars.
-            </p>
-        </div>
-
-        <div class="movie" data-genre="Action">
-            <h3>The Dark Knight (2008)</h3>
-            <div class="movie-info">
-                Genre: <span class="genre">Action</span>
-                | Rating: <span class="rating">9.0/10</span>
-            </div>
-            <p>
-                Batman faces his greatest challenge when the
-                Joker brings chaos and destruction to Gotham City.
-            </p>
-        </div>
-
-        <div class="movie" data-genre="Adventure">
-            <h3>The Lord of the Rings: The Fellowship of the Ring (2001)</h3>
-            <div class="movie-info">
-                Genre: <span class="genre">Adventure</span>
-                | Rating: <span class="rating">8.9/10</span>
-            </div>
-            <p>
-                A young hobbit begins an epic journey to destroy
-                a powerful ring and save Middle-earth.
-            </p>
-        </div>
-
-        <div class="movie" data-genre="Drama">
-            <h3>The Shawshank Redemption (1994)</h3>
-            <div class="movie-info">
-                Genre: <span class="genre">Drama</span>
-                | Rating: <span class="rating">9.3/10</span>
-            </div>
-            <p>
-                Two imprisoned men form an unlikely friendship
-                while searching for hope and freedom.
-            </p>
-        </div>
-
-        <div class="movie" data-genre="Comedy">
-            <h3>Back to the Future (1985)</h3>
-            <div class="movie-info">
-                Genre: <span class="genre">Comedy</span>
-                | Rating: <span class="rating">8.5/10</span>
-            </div>
-            <p>
-                A teenager accidentally travels back in time
-                and must ensure his parents meet in order to
-                preserve his own future.
-            </p>
-        </div>
-
-    </div>
-
-    <p id="noResults" style="display:none;">
-        No movies found.
-    </p>
-
-    <hr>
-
-    <h2>About This Collection</h2>
-
-    <p>
-        This website is a personal movie database.
-        More movies and categories can be added at any time.
-        Use the search bar to find your favorite movies.
-    </p>
-
-    <footer>
-        &copy; 2026 My Movie Collection. All rights reserved.
-    </footer>
+    <div id="movieList"></div>
 
     <script>
-        function filterMovies() {
-            const search = document
-                .getElementById("search")
-                .value.toLowerCase();
+        const movies = [
+            {
+                title: "Interstellar",
+                year: 2014,
+                description: "A group of astronauts travels through a wormhole in search of a new home for humanity."
+            },
+            {
+                title: "The Dark Knight",
+                year: 2008,
+                description: "Batman faces the Joker, a criminal mastermind threatening Gotham City."
+            },
+            {
+                title: "Inception",
+                year: 2010,
+                description: "A thief enters people's dreams to steal secrets and attempt an impossible heist."
+            },
+            {
+                title: "Fight Club",
+                year: 1999,
+                description: "An insomniac and a mysterious stranger create an underground fighting club."
+            },
+            {
+                title: "The Shawshank Redemption",
+                year: 1994,
+                description: "Two prisoners form a friendship while holding on to hope and freedom."
+            },
+            {
+                title: "Blade Runner 2049",
+                year: 2017,
+                description: "A blade runner uncovers a secret that could change the future of humanity."
+            },
+            {
+                title: "Goodfellas",
+                year: 1990,
+                description: "The rise and fall of a man involved in the world of organized crime."
+            },
+            {
+                title: "Back to the Future",
+                year: 1985,
+                description: "A teenager accidentally travels back in time using a modified DeLorean."
+            }
+        ];
 
-            const genre = document
-                .getElementById("genreFilter")
-                .value;
+        // Sort movies alphabetically by title
+        movies.sort((a, b) =>
+            a.title.localeCompare(b.title)
+        );
 
-            const movies = document.querySelectorAll(".movie");
-            let visibleCount = 0;
+        // Display movies
+        const movieList = document.getElementById("movieList");
 
-            movies.forEach(movie => {
-                const title = movie.querySelector("h3")
-                    .textContent.toLowerCase();
+        movies.forEach(movie => {
+            const entry = document.createElement("div");
+            entry.className = "movie";
 
-                const description = movie.querySelector("p")
-                    .textContent.toLowerCase();
+            const title = document.createElement("div");
+            title.className = "movie-title";
+            title.textContent = movie.title + " ";
 
-                const movieGenre = movie.dataset.genre;
+            const year = document.createElement("span");
+            year.className = "year";
+            year.textContent = "(" + movie.year + ")";
 
-                const matchesSearch =
-                    title.includes(search) ||
-                    description.includes(search);
+            title.appendChild(year);
 
-                const matchesGenre =
-                    genre === "all" || movieGenre === genre;
+            const description = document.createElement("p");
+            description.className = "description";
+            description.textContent = movie.description;
 
-                if (matchesSearch && matchesGenre) {
-                    movie.style.display = "block";
-                    visibleCount++;
-                } else {
-                    movie.style.display = "none";
-                }
-            });
+            entry.appendChild(title);
+            entry.appendChild(description);
 
-            document.getElementById("noResults").style.display =
-                visibleCount === 0 ? "block" : "none";
-        }
+            movieList.appendChild(entry);
+        });
     </script>
 
 </body>
