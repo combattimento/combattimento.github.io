@@ -82,6 +82,31 @@
                 title: "Moon",
                 year: 2009,
                 description: " sci-fi, space, moon, mining"
+            },
+            {
+                title: "Civil War",
+                year: 2024,
+                description: "dystopia, america"
+            },
+            {
+                title: "A House of Dynamite",
+                year: 2025,
+                description: "dystopia, america, atomic bomb
+            },
+            {
+                title: "Lammbock",
+                year: 2001,
+                description: "würzburg, comedy, weird"
+            },
+            {
+                title: "Lammbock",
+                year: 2001,
+                description: "würzburg, comedy, weird"
+            },
+            {
+                title: "The Little Things",
+                year: 2021,
+                description: "detective, noir, los angeles,serial killer"
             }
         ];
 
