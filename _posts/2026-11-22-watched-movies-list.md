@@ -49,8 +49,6 @@
 
     <hr>
 
-    <h2>Movies</h2>
-
     <div id="movieList"></div>
 
     <script>
