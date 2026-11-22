@@ -107,6 +107,16 @@
                 title: "The Little Things",
                 year: 2021,
                 description: "detective, noir, los angeles,serial killer"
+            },
+            {
+                title: "The Place Beyond the Pines",
+                year: 2012,
+                description: "indie, ryan gosling, motorbike, drama"
+            },
+            {
+                title: "Prisoners",
+                year: 2013,
+                description: "dark, abduction, criminal, serial killer, mindgames"
             }
         ];
 
