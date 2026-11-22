@@ -63,44 +63,19 @@
     <script>
         const movies = [
             {
-                title: "Interstellar",
-                year: 2014,
-                description: "A group of astronauts travels through a wormhole in search of a new home for humanity."
+                title: "Trollhunter",
+                year: 2010,
+                description: "found footage, Norway, Trolls."
             },
             {
-                title: "The Dark Knight",
-                year: 2008,
-                description: "Batman faces the Joker, a criminal mastermind threatening Gotham City."
+                title: "Reign of Fire",
+                year: 2002,
+                description: "Great Britain, 2020, dragons"
             },
             {
                 title: "Inception",
                 year: 2010,
                 description: "A thief enters people's dreams to steal secrets and attempt an impossible heist."
-            },
-            {
-                title: "Fight Club",
-                year: 1999,
-                description: "An insomniac and a mysterious stranger create an underground fighting club."
-            },
-            {
-                title: "The Shawshank Redemption",
-                year: 1994,
-                description: "Two prisoners form a friendship while holding on to hope and freedom."
-            },
-            {
-                title: "Blade Runner 2049",
-                year: 2017,
-                description: "A blade runner uncovers a secret that could change the future of humanity."
-            },
-            {
-                title: "Goodfellas",
-                year: 1990,
-                description: "The rise and fall of a man involved in the world of organized crime."
-            },
-            {
-                title: "Back to the Future",
-                year: 1985,
-                description: "A teenager accidentally travels back in time using a modified DeLorean."
             }
         ];
 
