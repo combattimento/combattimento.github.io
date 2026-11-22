@@ -117,7 +117,7 @@
                 title: "Prisoners",
                 year: 2013,
                 description: "dark, abduction, criminal, serial killer, mindgames"
-            }
+            },
         ];
 
         // Sort movies alphabetically by title
