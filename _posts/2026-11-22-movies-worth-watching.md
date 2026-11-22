@@ -73,6 +73,11 @@
                 title: "A Cure for Wellness",
                 year: 2016,
                 description: "horror, mystery, eels"
+            },
+            {
+                title: "Europa Report",
+                year: 2013,
+                description: "found footage, sci-fi, space, alien"
             }
         ];
 
