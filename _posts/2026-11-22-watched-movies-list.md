@@ -63,7 +63,7 @@
             {
                 title: "Trollhunter",
                 year: 2010,
-                description: "found footage, Norway, Trolls."
+                description: "found footage, Norway, Trolls"
             },
             {
                 title: "Reign of Fire",
@@ -71,9 +71,14 @@
                 description: "Great Britain, 2020, dragons"
             },
             {
-                title: "Inception",
-                year: 2010,
-                description: "A thief enters people's dreams to steal secrets and attempt an impossible heist."
+                title: "Blair Witch Project",
+                year: 1999,
+                description: "found footage, Horror, forest, group"
+            },
+            {
+                title: "A Cure for Wellness",
+                year: 2016,
+                description: "horror, mystery, eels"
             }
         ];
 
