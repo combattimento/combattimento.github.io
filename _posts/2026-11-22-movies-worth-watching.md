@@ -91,7 +91,7 @@
             {
                 title: "A House of Dynamite",
                 year: 2025,
-                description: "dystopia, america, atomic bomb
+                description: "dystopia, america, atomic bomb"
             },
             {
                 title: "Lammbock",
