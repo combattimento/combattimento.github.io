@@ -47,10 +47,9 @@
 
 <body>
 
-
+in alphabetical order:
 
     <div id="movieList"></div>
-
     <script>
         const movies = [
             {
